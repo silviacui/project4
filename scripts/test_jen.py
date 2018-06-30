@@ -6,7 +6,7 @@ class TestJenkins:
 
     def test_login2(self):
         assert 1
-        print("456")
+        print("000")
 
     def test_login3(self):
         assert 1
